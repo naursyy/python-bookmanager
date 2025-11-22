@@ -24,8 +24,7 @@ unit-testing-python/
 1. Pastikan **Python 3.8+** sudah terinstal.
 2. Clone repository:
 ```bash
-git clone [URL_REPOSITORY]
-cd unit-testing-python
+git clone https://github.com/naursyy/python-bookmanager.git
 ```
 3. Jalankan test:
 ```bash
